@@ -21,6 +21,6 @@ total += y;
 } // end while
 
 System.out.printf( "Total is %d\n", total ); // end main
-} 
+}
 
 }
